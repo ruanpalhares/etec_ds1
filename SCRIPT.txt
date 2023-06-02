@@ -1,0 +1,11 @@
+CREATE DATABASE BDEMPRESA;
+
+USE BDEMPRESA;
+
+CREATE TABLE DEPARTAMENTO(
+
+ID int not null primary key,
+NOMEDEP varchar(70),
+SIGLADEP varchar(5)
+
+);
