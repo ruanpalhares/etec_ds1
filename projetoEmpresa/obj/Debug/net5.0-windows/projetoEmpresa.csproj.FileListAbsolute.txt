@@ -1,0 +1,112 @@
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.exe
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.deps.json
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.runtimeconfig.json
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.runtimeconfig.dev.json
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\ref\projetoEmpresa.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.pdb
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.AssemblyReference.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.GenerateResource.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.AssemblyInfoInputs.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.AssemblyInfo.cs
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.CopyComplete
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\ref\projetoEmpresa.dll
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.pdb
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.genruntimeconfig.cache
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.FrmDep.resources
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.FrmFuncionario.resources
+C:\Users\priar\OneDrive\Documentos\BKP\AULAS ETEC\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.exe
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.deps.json
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.runtimeconfig.json
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.runtimeconfig.dev.json
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\ref\projetoEmpresa.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.pdb
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\Google.Protobuf.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\MySql.Data.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.Text.Json.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\comerr64.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\gssapi64.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.AssemblyReference.cache
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.FrmDep.resources
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.FrmFuncionario.resources
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.frmMENU.resources
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.GenerateResource.cache
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.AssemblyInfoInputs.cache
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.AssemblyInfo.cs
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.CoreCompileInputs.cache
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.CopyComplete
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\ref\projetoEmpresa.dll
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.pdb
+X:\2023\DS I\EXEMPLOS_PROJ\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.genruntimeconfig.cache
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.exe
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.deps.json
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.runtimeconfig.json
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.runtimeconfig.dev.json
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\ref\projetoEmpresa.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\projetoEmpresa.pdb
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\bin\Debug\net5.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.AssemblyReference.cache
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.FrmDep.resources
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.FrmFuncionario.resources
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.frmMENU.resources
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.GenerateResource.cache
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.AssemblyInfoInputs.cache
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.AssemblyInfo.cs
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.CoreCompileInputs.cache
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.csproj.CopyComplete
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\ref\projetoEmpresa.dll
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.pdb
+C:\Users\Etec\Desktop\Exemplo_1N\projetoEmpresa\projetoEmpresa\obj\Debug\net5.0-windows\projetoEmpresa.genruntimeconfig.cache
